@@ -42,7 +42,7 @@ User Input → FastAPI → LangGraph Pipeline → React Frontend
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Debashish4357/Multi-Agent-AI-system-using-LangChain-and-LangGraph.git
+git clone https://github.com/ravish990/Multiagent.git
 cd Multi-Agent-AI-system-using-LangChain-and-LangGraph
 ```
 
